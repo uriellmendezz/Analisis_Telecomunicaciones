@@ -1,0 +1,6 @@
+# Carpetas a ignorar
+venv/
+
+# Archivos
+consignas.md
+procesos.txt
