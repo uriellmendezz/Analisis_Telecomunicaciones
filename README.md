@@ -1,5 +1,7 @@
 # Proyecto de Análisis de Datos - Empresa argentina de Telecomunicaciones
 
+![Foto de portada](cover.png)
+
 ## Índice
 - [Descripción de Archivos](#archivos)
 - [Introducción](#intro)
