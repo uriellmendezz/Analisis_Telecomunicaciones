@@ -44,7 +44,7 @@ La empresa Enacom es una compania de telecomunicaciones con una solida presencia
 
 ## Objetivo del Proyecto
 
-El objetivo de este proyecto es extraer y analizar tres KPIs principales a partir de los datos proporcionados por "Enacom", utilizando Power BI. Estos KPIs se centran en aspectos clave de la calidad de la conexión a Internet, los accesos a Internet en los hogares y por habitantes y la distribución de tecnologías de conexión en diferentes provincias y tambien a nivel nacional.
+El objetivo de este proyecto es extraer y analizar tres KPIs principales a partir de los datos proporcionados por "Enacom", utilizando Power BI. Estos KPIs se centran en aspectos clave de la calidad de la conexión a Internet, los accesos a Internet en los hogares y por habitantes y la distribución de tecnologías de conexión en diferentes provincias.
 
 
 ## KPIs
